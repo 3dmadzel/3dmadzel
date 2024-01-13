@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3dmadzel
 - 👀 I’m interested in 3D Modeling and Design
 - 🌱 I’m currently learning all things
-- 💞️ I’m looking to collaborate on gaming and training graphics
+- 💞️ I’m looking to collaborate on gaming, VR, AR and training graphics
 - 📫 3dmadzel@gmail.com
 
 <!---
